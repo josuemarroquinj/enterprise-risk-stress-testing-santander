@@ -34,13 +34,6 @@ The analysis will progressively cover:
 - Strategic Risk
 - Emerging Risks
 
-## Repository Structure
-
-```text
-data/        Raw, processed and assumptions data
-notebooks/   Jupyter notebooks with the analytical workflow
-src/         Reusable Python functions
-
 ## Project Status
 
 | Module | Status |
@@ -56,5 +49,13 @@ src/         Reusable Python functions
 | Capital Stress Testing | ⏳ Planned |
 | Risk Interdependencies | ⏳ Planned |
 | Risk Committee Dashboard | ⏳ Planned |
-outputs/     Generated tables and figures
+
+## Repository Structure
+
+```text
+data/        Raw, processed and assumptions data
+notebooks/   Jupyter notebooks with the analytical workflow
+src/         Reusable Python functions
+
+
 docs/        Methodology and supporting documentation
