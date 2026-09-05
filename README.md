@@ -40,5 +40,21 @@ The analysis will progressively cover:
 data/        Raw, processed and assumptions data
 notebooks/   Jupyter notebooks with the analytical workflow
 src/         Reusable Python functions
+
+## Project Status
+
+| Module | Status |
+|---|---|
+| Project Setup | ✅ Completed |
+| Financial & Risk Dashboard | ✅ In progress |
+| Credit Risk Analysis | ⏳ Next |
+| Credit Stress Testing | ⏳ Planned |
+| IFRS 9 Stage Migration | ⏳ Planned |
+| Market Risk | ⏳ Planned |
+| IRRBB | ⏳ Planned |
+| Liquidity Risk | ⏳ Planned |
+| Capital Stress Testing | ⏳ Planned |
+| Risk Interdependencies | ⏳ Planned |
+| Risk Committee Dashboard | ⏳ Planned |
 outputs/     Generated tables and figures
 docs/        Methodology and supporting documentation
