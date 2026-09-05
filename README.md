@@ -56,4 +56,5 @@ The analysis will progressively cover:
 data/        Raw, processed and assumptions data
 notebooks/   Jupyter notebooks with the analytical workflow
 src/         Reusable Python functions
+outputs/     Generated tables and figures
 docs/        Methodology and supporting documentation
